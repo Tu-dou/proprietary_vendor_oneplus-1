@@ -27,4 +27,5 @@ PRODUCT_PACKAGES += \
     qcnvitems \
     qcrilhook
 
+
 $(call inherit-product, vendor/oneplus/onyx/onyx-vendor-blobs.mk)
