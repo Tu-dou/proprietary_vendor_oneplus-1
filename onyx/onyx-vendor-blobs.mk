@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/onyx/proprietary/bin/btnvtool:/system/bin/btnvtool \
         vendor/oneplus/onyx/proprietary/bin/cnd:/system/bin/cnd \
         vendor/oneplus/onyx/proprietary/bin/copy_wifi_nv:/system/bin/copy_wifi_nv \
-        vendor/oneplus/onyx/proprietary/bin/cplay:/system/bin/cplay \
         vendor/oneplus/onyx/proprietary/bin/diag_callback_client:/system/bin/diag_callback_client \
         vendor/oneplus/onyx/proprietary/bin/diag_dci_sample:/system/bin/diag_dci_sample \
         vendor/oneplus/onyx/proprietary/bin/diag_klog:/system/bin/diag_klog \
@@ -99,9 +98,6 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/onyx/proprietary/bin/test_diag:/system/bin/test_diag \
         vendor/oneplus/onyx/proprietary/bin/thermal-engine:/system/bin/thermal-engine \
         vendor/oneplus/onyx/proprietary/bin/time_daemon:/system/bin/time_daemon \
-        vendor/oneplus/onyx/proprietary/bin/tinycap:/system/bin/tinycap \
-        vendor/oneplus/onyx/proprietary/bin/tinypcminfo:/system/bin/tinypcminfo \
-        vendor/oneplus/onyx/proprietary/bin/tinyplay:/system/bin/tinyplay \
         vendor/oneplus/onyx/proprietary/bin/usb_uicc_client:/system/bin/usb_uicc_client \
         vendor/oneplus/onyx/proprietary/bin/usbhub:/system/bin/usbhub \
         vendor/oneplus/onyx/proprietary/bin/usbhub_init:/system/bin/usbhub_init \
@@ -228,9 +224,7 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/onyx/proprietary/lib/libMcRegistry.so:/system/lib/libMcRegistry.so \
         vendor/oneplus/onyx/proprietary/lib/libOmxVdecHevc.so:/system/lib/libOmxVdecHevc.so \
         vendor/oneplus/onyx/proprietary/lib/libP11EncryptorDecryptor.so:/system/lib/libP11EncryptorDecryptor.so \
-        vendor/oneplus/onyx/proprietary/lib/libQWiFiSoftApCfg.so:/system/lib/libQWiFiSoftApCfg.so \
         vendor/oneplus/onyx/proprietary/lib/libassert_tip_service.so:/system/lib/libassert_tip_service.so \
-        vendor/oneplus/onyx/proprietary/lib/libaudio-resampler.so:/system/lib/libaudio-resampler.so \
         vendor/oneplus/onyx/proprietary/lib/libcnefeatureconfig.so:/system/lib/libcnefeatureconfig.so \
         vendor/oneplus/onyx/proprietary/lib/libdiagdci.so:/system/lib/libdiagdci.so \
         vendor/oneplus/onyx/proprietary/lib/libdoor.so:/system/lib/libdoor.so \
